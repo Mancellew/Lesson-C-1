@@ -1,2 +1,8 @@
 # Lesson-C-1
-Software Design and implema
+Software Design and Implemantion
+
+### Project Descripiton
+
+### Group
+
+### Tutor
